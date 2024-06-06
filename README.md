@@ -4,7 +4,7 @@ This app was build with [Next.js](https://nextjs.org/).
 
 ## About
 
-![Figma Screenshot](https://ibb.co/zFyC0Cc)  
+![Figma Screenshot]([https://ibb.co/zFyC0Cc](https://i.ibb.co/PM7JfJp/Love-Tap-1.png))  
 
 ![Start Screen](https://ibb.co/8dWTgLn) 
 
