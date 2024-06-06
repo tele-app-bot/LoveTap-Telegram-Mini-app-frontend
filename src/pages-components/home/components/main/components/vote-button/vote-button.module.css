@@ -1,0 +1,39 @@
+.vote_button_bg {
+  background: linear-gradient(90deg, #9454b7 0%, #c962b4 100%);
+}
+
+@keyframes voteButtonClick {
+  0% {
+    opacity: 0;
+    top: 0;
+    right: 0;
+  }
+  25% {
+    opacity: 0.5;
+    top: -15px;
+    right: -15px;
+  }
+  50% {
+    opacity: 1;
+    top: -30px;
+    right: -30px;
+  }
+  70% {
+    opacity: 0.5;
+    top: -45px;
+    right: -45px;
+  }
+  100% {
+    opacity: 0;
+    top: -60px;
+    right: -60px;
+  }
+}
+
+.vote_button_bg {
+  /* transition: transform 0.2s ease-in-out; */
+}
+
+.clicked {
+  animation: voteButtonClick 0.5s forwards ease-in-out;
+}

@@ -1,0 +1,37 @@
+import { Icon } from "@/common";
+import { IconProps } from "@/common/icon/types";
+
+export const PenEditIcon = (props: IconProps) => {
+  return (
+    <Icon viewBox="0 0 15 14" {...props}>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="15"
+        height="14"
+        viewBox="0 0 15 14"
+        fill="none"
+      >
+        <path
+          d="M8.61279 13.2565H13.927"
+          stroke="white"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M10.8815 1.04907V1.04907C9.76153 0.209069 8.1732 0.435736 7.3332 1.5549C7.3332 1.5549 3.1557 7.1199 1.70653 9.05074C0.257367 10.9824 1.6282 13.3757 1.6282 13.3757C1.6282 13.3757 4.33153 13.9974 5.75987 12.0932C7.18903 10.1899 11.3865 4.5974 11.3865 4.5974C12.2265 3.47824 12.0007 1.88907 10.8815 1.04907Z"
+          stroke="white"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M6.25342 3.00952L10.3068 6.05202"
+          stroke="white"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    </Icon>
+  );
+};

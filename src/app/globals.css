@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.coin {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  border: 1px dotted #333;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.cart {
+  float: right;
+  width: 50px;
+  height: 30px;
+  line-height: 30px;
+  background-color: gray;
+  text-align: center;
+}
+
+@keyframes animateOpacity {
+  from {
+    opacity: 0;
+  }
+  5% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+  95% {
+    opacity: 0.6;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield; /* Firefox */
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #34214e;
+  border-radius: 9px;
+  padding: 0 1px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ffffff69;
+  border-radius: 9px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

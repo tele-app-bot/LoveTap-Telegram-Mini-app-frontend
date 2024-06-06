@@ -1,0 +1,11 @@
+.text {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.2px;
+  letter-spacing: -0.40799999237060547px;
+  text-align: left;
+  background: linear-gradient(90deg, #9454b7 0%, #c962b4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

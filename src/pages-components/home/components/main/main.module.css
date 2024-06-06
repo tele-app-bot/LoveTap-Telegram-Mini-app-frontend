@@ -1,0 +1,15 @@
+.result_bg {
+  background: linear-gradient(
+    90deg,
+    rgba(148, 84, 183, 0.56) 0%,
+    rgba(201, 98, 180, 0.56) 100%
+  );
+}
+
+.button_bg {
+  background: linear-gradient(90deg, #9454b7 0%, #c962b4 100%);
+}
+
+.vote_button_bg {
+  background: linear-gradient(90deg, #9454b7 0%, #c962b4 100%);
+}

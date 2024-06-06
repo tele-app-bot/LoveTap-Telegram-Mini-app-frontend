@@ -1,0 +1,10 @@
+.modal_overview {
+  background: #231336d6;
+}
+
+.modal_bg {
+  box-sizing: border-box;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(30px);
+}

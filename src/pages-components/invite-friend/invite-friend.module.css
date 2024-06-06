@@ -1,0 +1,11 @@
+.bg {
+    background-image: url("/images/invite-freand.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .tap {
+    background: linear-gradient(90deg, #9454b7 0%, #c962b4 100%);
+    box-shadow: 0px 4px 4px 0px #6e328378;
+  }
+  

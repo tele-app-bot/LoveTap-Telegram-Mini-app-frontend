@@ -1,0 +1,8 @@
+.tool_tip {
+  background: linear-gradient(
+      0deg,
+      rgba(94, 85, 107, 0.53),
+      rgba(94, 85, 107, 0.53)
+    ),
+    linear-gradient(0deg, rgba(169, 155, 213, 0.22), rgba(169, 155, 213, 0.22));
+}

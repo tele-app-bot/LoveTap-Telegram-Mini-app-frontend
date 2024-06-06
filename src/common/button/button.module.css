@@ -1,0 +1,9 @@
+.button_bg {
+  background: linear-gradient(90deg, #9454b7 0%, #c962b4 100%);
+}
+
+.shadow {
+  -webkit-box-shadow: 7px -16px 162px 40px rgba(148, 84, 183, 1) !important;
+  -moz-box-shadow: 7px -16px 162px 40px rgba(148, 84, 183, 1) !important;
+  box-shadow: 7px -16px 162px 40px rgba(148, 84, 183, 1) !important;
+}
