@@ -6,11 +6,11 @@ This app was build with [Next.js](https://nextjs.org/).
 
 ![Figma Screenshot](https://i.ibb.co/PM7JfJp/Love-Tap-1.png)  
 
-![Start Screen](https://ibb.co/8dWTgLn) 
+![Start Screen](https://i.ibb.co/SdhWw4D/Love-Tap-2.png)
 
-![Screenshot_2](https://ibb.co/pyJd44j)  
+![Screenshot_2](https://i.ibb.co/ySWqggF/Love-Tap-3.png)
 
-![Screenshot_3](https://ibb.co/WGNhSpb)  
+![Screenshot_3](https://i.ibb.co/q7LSbFt/Love-Tap-4.png)
 
 ## Getting Started
 
